@@ -1,0 +1,13 @@
+
+.carousel {
+  /* background-color: rgb(249, 249, 249); */
+  /* padding-top: 5rem; */
+  /* padding-bottom: 5rem; */
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 100%;
+  width: 100%;
+}
+
